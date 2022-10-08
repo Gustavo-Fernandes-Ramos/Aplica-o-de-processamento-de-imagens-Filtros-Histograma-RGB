@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PainelExibicao
+comment1.params=
+comment1.target=PainelExibicao()
+comment2.params=img
+comment2.target=void\ setImgAtual(java.awt.image.BufferedImage)
+comment3.params=
+comment3.target=Imagem\ getImgAtual()
+comment4.params=proporcao
+comment4.target=void\ setProporcaoAtual(TipoProporcao)
+comment5.params=
+comment5.target=TipoProporcao\ getProporcaoAtual()
+comment6.params=
+comment6.target=void\ exibirImagem()
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8

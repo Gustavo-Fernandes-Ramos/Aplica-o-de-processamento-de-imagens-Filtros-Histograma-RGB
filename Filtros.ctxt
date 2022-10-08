@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Filtros
+comment1.params=img
+comment1.target=java.awt.image.BufferedImage\ filtroCinza(java.awt.image.BufferedImage)
+comment2.params=img
+comment2.target=java.awt.image.BufferedImage\ filtroNegativo(java.awt.image.BufferedImage)
+comment3.params=img
+comment3.target=java.awt.image.BufferedImage\ filtroPretoBranco(java.awt.image.BufferedImage)
+comment4.params=img
+comment4.target=java.awt.image.BufferedImage\ filtroVermelho(java.awt.image.BufferedImage)
+comment5.params=img
+comment5.target=java.awt.image.BufferedImage\ filtroVerde(java.awt.image.BufferedImage)
+comment6.params=img
+comment6.target=java.awt.image.BufferedImage\ filtroAzul(java.awt.image.BufferedImage)
+comment7.params=img
+comment7.target=java.awt.image.BufferedImage\ filtroPassaBaixa(java.awt.image.BufferedImage)
+comment8.params=img
+comment8.target=java.awt.image.BufferedImage\ filtroPassaAlta(java.awt.image.BufferedImage)
+numComments=9

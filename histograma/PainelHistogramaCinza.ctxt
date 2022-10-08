@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PainelHistogramaCinza
+comment1.params=histograma
+comment1.target=PainelHistogramaCinza(int[])
+comment2.params=histograma
+comment2.target=void\ setHistogramaAtual(int[])
+comment3.params=
+comment3.target=int[]\ getHistogramaAtual()
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+numComments=5
